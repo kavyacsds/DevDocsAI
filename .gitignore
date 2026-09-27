@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Uploaded documents
+data/documents/
+
+# FAISS local index
+faiss_index/
+
+# Python test/cache files
+.pytest_cache/
+.coverage
+
+# VS Code
+.vscode/
+
+# React
+frontend/node_modules/
+frontend/dist/
