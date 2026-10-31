@@ -38,3 +38,5 @@ Reranker
 Ollama
    ↓
 Answer + Sources
+## Image frontend
+<img width="439" height="419" alt="image" src="https://github.com/user-attachments/assets/4975967f-e0d1-4aa4-847b-fa9c064e3976" />
