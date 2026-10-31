@@ -39,4 +39,5 @@ Ollama
    ↓
 Answer + Sources
 ## Image frontend
-<img width="439" height="419" alt="image" src="https://github.com/user-attachments/assets/4975967f-e0d1-4aa4-847b-fa9c064e3976" />
+<img width="439" height="419" alt="Screenshot 2026-10-31 131124" src="https://github.com/user-attachments/assets/db5657d4-b515-4c45-b228-12d431c73259" />
+
